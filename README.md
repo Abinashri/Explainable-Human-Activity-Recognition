@@ -1,3 +1,5 @@
+To Try our Project- https://explainable-human-activity-recognition-gftf5jdadd93hwv42mjd5a.streamlit.app/
+
 # Explainable Human Activity Recognition (CNN-LSTM + Grad-CAM + Streamlit)
 
 ## Run order
@@ -17,3 +19,6 @@
 - Box position/size/speed added as extra LSTM input (cropping removes how fast the person moves).
 - Video prediction = average over all sliding clips. LSTM output averaged over time. Label smoothing + input dropout.
 - Split is by person (standard KTH protocol); test persons are never used for training or model selection.
+
+
+
