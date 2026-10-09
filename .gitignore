@@ -1,0 +1,15 @@
+
+# Dataset and generated files
+kth_videos/
+__pycache__/
+cache/
+outputs/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
